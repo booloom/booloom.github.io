@@ -3,7 +3,14 @@
         <title>All Posts - My New Hugo Site</title>
         <link>https://booloom.github.io/posts/</link>
         <description>All Posts | My New Hugo Site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 27 Nov 2021 20:42:07 &#43;0800</lastBuildDate><atom:link href="https://booloom.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Sat, 27 Nov 2021 23:29:01 &#43;0800</lastBuildDate><atom:link href="https://booloom.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Second_post</title>
+    <link>https://booloom.github.io/second_post/</link>
+    <pubDate>Sat, 27 Nov 2021 23:29:01 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://booloom.github.io/second_post/</guid>
+    <description><![CDATA[第二次写blog 搞了足足三天了，总算是入了门 abab]]></description>
+</item><item>
     <title>First_post</title>
     <link>https://booloom.github.io/first_post/</link>
     <pubDate>Sat, 27 Nov 2021 20:42:07 &#43;0800</pubDate>
